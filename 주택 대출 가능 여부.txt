@@ -1,0 +1,22 @@
+주택 대출 가능 여부
+https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval
+
+야채타임
+https://dacon.io/competitions/official/236047/codeshare/7498
+
+airbnb
+https://www.kaggle.com/datasets/stevezhenghp/airbnb-price-prediction
+
+city
+property_type
+room_type
+amenities
+accommodates
+bathrooms
+cleaning_fee
+(host_identity_verified)
+instant_bookable
+latitude / longitude
+(neighbourhood)
+bedrooms / beds
+
